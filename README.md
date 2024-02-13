@@ -1,2 +1,1 @@
-# Machine-Learning-Projects
-All Machine Learning Projects
+Fake News Detection using Machine Learning
